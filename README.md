@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-bottom: -45px;">Hello, I'm Andrew Yakimtsev!</h1>
 
 <div align="center">
-<img src="images/vertical.jpg" width="20%" align="right" style="margin-left: 20px; margin-top: 40px;" />
+<img src="images/vertical.jpg" width="20%" align="right" style="margin-left: 20px; margin-top: 30px;" />
 <br><br>
 <pre>
     💼 IT Technician with 2+ years supporting systems & troubleshooting 
