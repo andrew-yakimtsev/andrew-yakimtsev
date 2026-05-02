@@ -26,9 +26,6 @@
   <a href="mailto:ayakimtsev8780@gmail.com" style="text-decoration: none;">
     <img src="images/Gmail-Dark.svg" width="30" style="margin:5px;" />
   </a>
-  <a href="https://steamcommunity.com/id/EmcoAlt/" style="text-decoration: none;">
-    <img src="images/Steam.png" width="30" style="margin:5px;" />
-  </a>
 </div>
 
 <br>
