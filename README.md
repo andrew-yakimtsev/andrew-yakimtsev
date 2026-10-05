@@ -4,7 +4,7 @@
 <img src="images/vertical.jpg" width="20%" align="right" style="margin-left: 20px; margin-top: 30px;" />
 <br><br>
 <pre>
-    💼 IT Technician with 2+ years supporting systems & troubleshooting 
+    💼 IT Technician with 3+ years supporting systems & troubleshooting 
     💻 Experienced with Python, PowerShell, and C++  
     ⚙️ Building tools like data scrapers and desktop applications  
     🎮 Work • Code • Anime • Art • Game
